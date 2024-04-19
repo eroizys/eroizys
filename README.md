@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Third Year BSC in Information Technology Student
 ------------------------------------------------
 
-I've been coding since high school, I started out with Delphi and began to learn HTML, CSS, JavaScript, PHP, and C++ in my tertiary institution. I am an avid and quick learner who always seeks to learn new things and improve my knowledge of things already known to me. I enjoy development because it allows me to be creative and provides me with the ability to build and improve various projects. This is also what motivates me to always work as proficiently as I can.
+Embarking on my coding journey during high school, I ventured into the realm of Delphi before embracing a veritable menagerie of languages including HTML, CSS, JavaScript, PHP, C++, C#, and Java during my tertiary education. With an insatiable appetite for learning, I relish the opportunity to expand my knowledge and creativity through development, constantly striving to enhance projects both new and old. This unyielding pursuit of proficiency serves as my guiding light, fueling my passion for innovation and excellence in every endeavor.
 
 * 🌍  I'm based in Pretoria, South Africa
 * ✉️  You can contact me at [geminilopes9@gmail.com](mailto:geminilopes9@gmail.com)
-* 🧠  I'm learning C++
+* 🧠  I'm learning C# and Java
 * 🤝  I'm open to collaborating on Web Development Projects
 * ⚡  I don't like avocadoes
 
