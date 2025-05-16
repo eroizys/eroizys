@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Leonilde Lopes
 ======================================================================================================================================
 
-Third Year BSC in Information Technology Student
+Honours BSc Information Technology Student
 ------------------------------------------------
 
-Embarking on my coding journey during high school, I ventured into the realm of Delphi before embracing a veritable menagerie of languages including HTML, CSS, JavaScript, PHP, C++, C#, and Java during my tertiary education. With an insatiable appetite for learning, I relish the opportunity to expand my knowledge and creativity through development, constantly striving to enhance projects both new and old. This unyielding pursuit of proficiency serves as my guiding light, fueling my passion for innovation and excellence in every endeavor.
+Beginning my coding journey in high school with Delphi, I’ve since explored a diverse range of languages including HTML, CSS, JavaScript, PHP, C++, C#, and Java throughout my academic path. Now pursuing my Honours in Information Technology, I’m delving into Python for data mining and game development. Driven by curiosity and creativity, I continuously seek to refine my skills and bring fresh ideas to life through development. My commitment to learning and innovation keeps me moving forward, always aiming to craft meaningful and effective digital experiences.
 
 * 🌍  I'm based in Pretoria, South Africa
 * ✉️  You can contact me at [geminilopes9@gmail.com](mailto:geminilopes9@gmail.com)
-* 🧠  I'm learning C# and Java
-* 🤝  I'm open to collaborating on Web Development Projects
+* 🧠  I'm currently learning Python for data mining and game development
+* 🤝  I'm open to collaborating on Projects
 * ⚡  I don't like avocadoes
 
 ### Skills
