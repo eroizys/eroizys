@@ -10,7 +10,7 @@ Beginning my coding journey in high school with Delphi, I’ve since explored a 
 * ✉️  You can contact me at [geminilopes9@gmail.com](mailto:geminilopes9@gmail.com)
 * 🧠  I'm currently learning Python for data mining and game development
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I don't like avocadoes
+* ⚡  I don't like avocados
 
 ### Skills
 
